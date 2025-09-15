@@ -2,7 +2,7 @@
 title: Noninvasive, epigenetic age estimation in an elasmobranch, the cownose ray
   (Rhinoptera bonasus)
 authors:
-- D Nick Weber
+- D. Nick Weber
 - Jennifer T Wyffels
 - Chris Buckner
 - Robert George

@@ -1,6 +1,6 @@
 ---
 title: Assessment of genomic diversity within and between two cryptic shiners, the
-  West Texas shiner Notropis megalops and the Texas shiner Notropis amabilis*
+  West Texas shiner Notropis megalops and the Texas shiner Notropis amabilis
 authors:
 - Kayla R. Dye
 - Andrew T. Fields
