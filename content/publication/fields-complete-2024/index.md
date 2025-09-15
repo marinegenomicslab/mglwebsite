@@ -1,5 +1,5 @@
 ---
-title: 'Complete mitochondrial genomes of <i>Notropis oxyrhynchus</i> and <i>Notropis buccula</i> (Cypriniformes: Leuciscidae)'
+title: 'Complete mitochondrial genomes of *Notropis oxyrhynchus* and *Notropis buccula* (Cypriniformes: Leuciscidae)'
 authors:
 - A. T. Fields
 - K. W. Conway
@@ -18,7 +18,7 @@ publication: '*Mitochondrial DNA Part B*'
 doi: 10.1080/23802359.2024.2429632
 abstract: The Leuciscidae (minnows, shiners and relatives) is a diverse family of
   freshwater fishes with many species endangered due to anthropogenic stressors. 
-  <i>Notropis oxyrhynchus</i> and <i>Notropis buccula</i> are two shiners found only 
+  *Notropis oxyrhynchus* and *Notropis buccula* are two shiners found only 
   in the upper Brazos River basin in Texas, USA and listed as endangered due to contracted habitat. The
   complete mitochondrial genome was sequenced for two vouchered specimens for each
   species; Notropis oxyrhynchus having a total mitogenome length of 16,711 bp and
