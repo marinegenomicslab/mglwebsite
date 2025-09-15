@@ -1,7 +1,6 @@
 ---
 title: Assessment of genomic diversity within and between two cryptic shiners, the
-  West Texas shiner ( textitNotropis megalops ) and the Texas shiner ( textitNotropis
-  amabilis )
+  West Texas shiner (<i>Notropis megalops</i>) and the Texas shiner (<i>Notropis amabilis</i>)
 authors:
 - Kayla R. Dye
 - Andrew T. Fields
@@ -19,12 +18,12 @@ doi: 10.1111/jfb.15999
 abstract: The presence of cryptic species can hinder effective conservation planning
   and implementation, as has been the case for speciose groups of freshwater fishes
   that are difficult to differentiate due to conserved morphologies. The West Texas
-  shiner Notropis megalops and the Texas shiner Notropis amabilis are a cryptic pair
+  shiner <i>Notropis megalops</i> and the Texas shiner <i>Notropis amabilis</i> are a cryptic pair
   of leuciscids (minnows) that co-occur in spring-fed tributaries of the Rio Grande
-  in Texas and Mexico. Both N. megalops and N. amabilis are listed as Species of Greatest
-  Conservation Need by the Texas Parks and Wildlife Department. Notropis amabilis
+  in Texas and Mexico. Both <i>N. megalops</i> and <i>N. amabilis</i> are listed as Species of Greatest
+  Conservation Need by the Texas Parks and Wildlife Department. <i>Notropis amabilis</i>
   is widespread and listed as apparently secure by Texas Parks and Wildlife Department
-  whereas N. megalops has a very limited distribution and has not been ranked by Texas
+  whereas <i>N. megalops</i> has a very limited distribution and has not been ranked by Texas
   Parks and Wildlife Department because of data deficiency. Morphological differences
   between these species have been described; however, proper identification in situ
   remains problematic. Furthermore, given their range of overlap there is potential
@@ -36,7 +35,7 @@ abstract: The presence of cryptic species can hinder effective conservation plan
   = 0.89) with no evidence of admixture or introgression. The species were found to
   co-occur at three sampling locations, two in the Devils River and one in the Pecos,
   but not in equal frequencies. Overall, these results provide data and tools for
-  further research on N. megalops needed for accurate conservation policies and management
+  further research on <i>N. megalops</i> needed for accurate conservation policies and management
   practices.
 links:
 - name: URL
