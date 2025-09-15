@@ -1,5 +1,5 @@
 ---
-title: 'Complete mitochondrial genomes of *Notropis oxyrhynchus* and *Notropis buccula* (Cypriniformes: Leuciscidae)'
+title: Complete mitochondrial genomes of Notropis oxyrhynchus and Notropis buccula (Cypriniformes:Leuciscidae)
 authors:
 - A. T. Fields
 - K. W. Conway
