@@ -22,7 +22,7 @@ sections:
           align: center
           background:
             image:
-              filename: ccbay.jpg
+              filename: barker.jpg
               filters:
                 brightness: 0.7
             position: right
@@ -32,13 +32,10 @@ sections:
           align: center
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: coders.jpg
+              filename: field_dolan.jpg
               filters:
                 brightness: 0.7
             position: center
-            #color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
