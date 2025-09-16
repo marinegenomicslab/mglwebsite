@@ -41,15 +41,6 @@ sections:
           align: center
           background:
             image:
-              filename: field_dolan.jpg
-              filters:
-                brightness: 0.7
-            position: center
-        - title: |
-          content: 
-          align: center
-          background:
-            image:
               filename: barker_shark.jpg
               filters:
                 brightness: 0.7
