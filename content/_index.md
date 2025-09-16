@@ -13,6 +13,41 @@ sections:
         <img src="./welcome.jpg" align="right" style="padding-left:10px;" width="400"/>
         <h1>Marine Genomics Lab</h1>
         The Marine Genomics Laboratory at Texas A&M University-Corpus Christi uses cutting edge, next-generation sequencing technology to address issues of marine conservation and management of exploited marine species. Additionally, we investigate biogeography and phylogenetics, with a focus on taxa found in the Gulf and northern Caribbean. The techniques being developed and utilized in our laboratory allow us to study population structure at an unprecedented resolution and to characterize adaptive aspects of genomic variation important for persistence at local scales and adaptation to temporal environmental fluctuations. 
+
+  - block: slider
+    content:
+      slides:
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: ccbay.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            #color: '#666'
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: coders.jpg
+              filters:
+                brightness: 0.7
+            position: center
+            #color: '#555'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      # Make the slides full screen within the browser window?
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2000
   
   #- block: collection
   #  content:
