@@ -32,7 +32,25 @@ sections:
           align: center
           background:
             image:
+              filename: oleary_boat.jpg
+              filters:
+                brightness: 0.7
+            position: center
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
               filename: field_dolan.jpg
+              filters:
+                brightness: 0.7
+            position: center
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: barker_shark.jpg
               filters:
                 brightness: 0.7
             position: center
@@ -65,25 +83,25 @@ sections:
   #    view: card
   #    columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text: 
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: tamucc_wave.jpg
-          filters:
-            brightness: 1
-          parallax: true
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  #- block: markdown
+  #  content:
+  #    title:
+  #    subtitle: ''
+  #    text: 
+  #  design:
+  #    columns: '1'
+  #    background:
+  #      image: 
+  #        filename: tamucc_wave.jpg
+  #        filters:
+  #        brightness: 1
+  #        parallax: true
+  #        position: center
+  #       size: cover
+  #        text_color_light: true
+  #    spacing:
+  #      padding: ['20px', '0', '20px', '0']
+  #    css_class: fullscreen
 
   - block: collection
     content:
