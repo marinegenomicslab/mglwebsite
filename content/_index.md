@@ -50,16 +50,6 @@ sections:
           align: center
           background:
             image:
-              filename: alaska_fish.jpg
-              filters:
-                brightness: 0.7
-            position: center
-
-        - title: |
-          content: 
-          align: center
-          background:
-            image:
               filename: darter.jpg
               filters:
                 brightness: 0.7
@@ -74,17 +64,7 @@ sections:
               filters:
                 brightness: 0.7
             position: center
-
-        - title: |
-          content: 
-          align: center
-          background:
-            image:
-              filename: fish.jpg
-              filters:
-                brightness: 0.7
-            position: center
-
+            
         - title: |
           content: 
           align: center
