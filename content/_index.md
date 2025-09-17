@@ -45,6 +45,85 @@ sections:
               filters:
                 brightness: 0.7
             position: center
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: alaska_fish.jpg
+              filters:
+                brightness: 0.7
+            position: center
+
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: darter.jpg
+              filters:
+                brightness: 0.7
+            position: center
+
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: dave_scope.jpg
+              filters:
+                brightness: 0.7
+            position: center
+
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: fish.jpg
+              filters:
+                brightness: 0.7
+            position: center
+
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: kayla_dave.jpg
+              filters:
+                brightness: 0.7
+            position: center
+
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: lizz_field.jpg
+              filters:
+                brightness: 0.7
+            position: center
+
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: nick_fish.jpg
+              filters:
+                brightness: 0.7
+            position: center
+
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: trout.jpg
+              filters:
+                brightness: 0.7
+            position: center
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
