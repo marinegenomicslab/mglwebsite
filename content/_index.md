@@ -27,6 +27,17 @@ sections:
                 brightness: 0.7
             position: right
             #color: '#666'
+
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: allison.jpg
+              filters:
+                brightness: 0.7
+            position: center
+
         - title: |
           content: 
           align: center
@@ -60,6 +71,16 @@ sections:
           align: center
           background:
             image:
+              filename: swift.jpg
+              filters:
+                brightness: 0.7
+            position: center
+
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
               filename: dave_scope.jpg
               filters:
                 brightness: 0.7
@@ -71,6 +92,16 @@ sections:
           background:
             image:
               filename: kayla_dave.jpg
+              filters:
+                brightness: 0.7
+            position: center
+
+        - title: |
+          content: 
+          align: center
+          background:
+            image:
+              filename: oyster_lab.jpg
               filters:
                 brightness: 0.7
             position: center
