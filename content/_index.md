@@ -182,7 +182,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'Publications'
+        publication_type: 'Article-Journal'
     design:
       view: citation
       columns: '1'
