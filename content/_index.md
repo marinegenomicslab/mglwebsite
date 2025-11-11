@@ -129,7 +129,7 @@ sections:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'
       # Make the slides full screen within the browser window?
-      is_fullscreen: false
+      is_fullscreen: true
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
@@ -182,7 +182,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: ''
+        publication_type: 'Publications'
     design:
       view: citation
       columns: '1'
