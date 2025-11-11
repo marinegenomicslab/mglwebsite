@@ -2,7 +2,7 @@
 title: Population structure of the Atlantic angel shark (Squatina dumeril) in United
   States waters of the western North Atlantic Ocean
 authors:
-- Andrew T. Fieldss
+- Andrew T. Fields
 - William B. Driggers
 - Christian M. Jones
 - David S. Portnoy
