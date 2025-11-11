@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kayla Dye
+title: Kayla R. Dye
 
 # Full Name (for SEO)
 first_name: Kayla
