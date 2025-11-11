@@ -2,10 +2,10 @@
 title: Population structure of the Atlantic angel shark (Squatina dumeril) in United
   States waters of the western North Atlantic Ocean
 authors:
-- Fields
+- Andrew T. Fieldss
 - William B. Driggers
 - Christian M. Jones
-- Portnoy
+- David S. Portnoy
 date: '2024-10-01'
 publishDate: '2024-10-11T17:27:52.901838Z'
 publication_types:
@@ -63,10 +63,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**We Love Sharks**](https://welovesharks.club/species-profile-angelshark/)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**We Love Sharks**](https://welovesharks.club/species-profile-angelshark/)'
+#  focal_point: ""
+#  preview_only: false
 
 # # Associated Projects (optional).
 # #   Associate this publication with one or more of your projects.

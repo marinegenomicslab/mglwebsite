@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christopher Hollenbeck
+title: Christopher M. Hollenbeck
 
 # Full name (for SEO)
 first_name: Christopher
