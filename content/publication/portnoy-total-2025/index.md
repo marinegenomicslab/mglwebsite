@@ -14,7 +14,7 @@ publishDate: '2025-12-19T16:26:56.344293Z'
 publication_types:
 - article-journal
 publication: '*Royal Society Open Science*'
-doi: doi.org/10.1098/rsos.251025
+doi: 10.1098/rsos.251025
 abstract: <i>Gambusia nobilis</i> is a federally endangered species found across a fragmented
   distribution within the Pecos River Drainage of Texas and New Mexico, USA. Drought,
   human water usage, and potential hybridization and competition with introduced congeners
