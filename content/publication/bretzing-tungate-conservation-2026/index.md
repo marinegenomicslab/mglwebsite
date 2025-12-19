@@ -17,15 +17,15 @@ publication_types:
 - article-journal
 publication: '*Conservation Genetics*'
 doi: 10.1007/s10592-025-01743-w
-abstract: The Leon Springs pupfish, Cyprinodon bovinus, is federally listed as endangered
+abstract: The Leon Springs pupfish, *Cyprinodon bovinus*, is federally listed as endangered
   and currently confined to spring-fed pools on the Diamond Y Spring Preserve in Pecos
   County, Texas, USA. A refuge population is maintained by U.S. Fish and Wildlife
   Service in Dexter, New Mexico, USA because of ongoing threats from hybridization
-  with the introduced congener, the sheepshead minnow, C. variegatus. To inform continued
+  with the introduced congener, the sheepshead minnow, *C. variegatus*. To inform continued
   conservation and management planning for this species, a comprehensive conservation
   genomics study using double digest restriction-site associated DNA sequencing was
   performed. No evidence of contemporary hybridization or recent introgression between
-  C. bovinus and C. variegatus was found. The refuge population was significantly
+  *C. bovinus* and *C. variegatus* was found. The refuge population was significantly
   differentiated from wild samples collected at two locations, and the two wild populations
   (less than 1 km apart) also exhibited significant heterogeneity in allele frequencies.
   Estimates of within population diversity were smaller for wild locations than the
@@ -38,7 +38,7 @@ abstract: The Leon Springs pupfish, Cyprinodon bovinus, is federally listed as e
   admixed individuals from the wild populations were successful. However, habitat
   fragmentation and small effective population sizes of the wild populations have
   led to accelerated drift and decreasing levels of within population genetic diversity.
-  This may jeopardize the long-term persistence of C. bovinus.
+  This may jeopardize the long-term persistence of *C. bovinus*.
 links:
 - name: URL
   url: https://link.springer.com/10.1007/s10592-025-01743-w

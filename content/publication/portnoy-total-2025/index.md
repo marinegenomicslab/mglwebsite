@@ -15,7 +15,7 @@ publication_types:
 - article-journal
 publication: '*Royal Society Open Science*'
 doi: doi.org/10.1098/rsos.251025
-abstract: Gambusia nobilis is a federally endangered species found across a fragmented
+abstract: *Gambusia nobilis* is a federally endangered species found across a fragmented
   distribution within the Pecos River Drainage of Texas and New Mexico, USA. Drought,
   human water usage, and potential hybridization and competition with introduced congeners
   threaten species persistence. Therefore, a population genomics study was conducted
@@ -27,9 +27,9 @@ abstract: Gambusia nobilis is a federally endangered species found across a frag
   corresponding to these groups, with divergence times estimated to be in the last
   50 000 years. Complimentary morphological analyses detected differences among the
   three groups, including features of male colour pattern, and the number of caudal-fin
-  rays in both sexes. Taken as a whole, the results indicate that the endangered G.
-  nobilis comprises three species (two of which are named herein as G. pyrros n. sp.
-  and G. echelleorum n. sp.), rather than one, and the study highlights the daunting
+  rays in both sexes. Taken as a whole, the results indicate that the endangered *G.
+  nobilis* comprises three species (two of which are named herein as *G. pyrros* n. sp.
+  and *G. echelleorum* n. sp.), rather than one, and the study highlights the daunting
   yet critical task of documenting species diversity during a period of unprecedented
   diversity loss.
 ---
