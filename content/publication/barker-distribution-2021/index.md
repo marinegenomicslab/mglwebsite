@@ -19,8 +19,8 @@ publication_types:
 - article-journal
 publication: '*Fisheries Research*'
 doi: 10.1016/j.fishres.2021.106039
-abstract: The scalloped hammerhead (Sphyrna lewini) and its cryptic congener, Carolina
-  hammerhead (S. gilberti), are sympatrically distributed in the western North Atlantic
+abstract: The scalloped hammerhead (*Sphyrna lewini*) and its cryptic congener, Carolina
+  hammerhead (*S. gilberti*), are sympatrically distributed in the western North Atlantic
   Ocean. Because the species are indistinguishable based on external morphology, little
   research focused on Carolina hammerheads exists. In this study, the distribution
   of Carolina hammerheads in waters of the United States off the east coast (U.S.
