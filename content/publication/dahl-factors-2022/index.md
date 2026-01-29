@@ -17,8 +17,8 @@ publication: '*Journal of Experimental Marine Biology and Ecology*'
 doi: 10.1016/j.jembe.2021.151675
 abstract: The use of DNA barcoding in fish diet studies is becoming more widespread,
   but the effect of prey digestion on barcoding accuracy has been poorly studied.
-  We conducted a series of controlled feeding experiments, with red lionfish (Pterois
-  volitans) as predators and Gulf killifish (Fundulus grandis) as prey, designed to
+  We conducted a series of controlled feeding experiments, with red lionfish (*Pterois
+  volitans*) as predators and Gulf killifish (*Fundulus grandis*) as prey, designed to
   test the effect of digestion time (12–42 h), prey item (sample) preservation (inside
   versus outside stomach), and sample preparation (washed versus unwashed) on DNA
   barcoding classification accuracy. Competitive interactions occurred between lionfish
