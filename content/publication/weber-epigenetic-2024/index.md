@@ -13,10 +13,10 @@ publication_types:
 - article-journal
 publication: '*Canadian Journal of Fisheries and Aquatic Sciences*'
 doi: 10.1139/cjfas-2023-0296
-abstract: "Age estimates are essential for ﬁsheries assessment and management, but
+abstract: Age estimates are essential for ﬁsheries assessment and management, but
   deepwater (textgreater200 m) ﬁshes are often difficult to age using traditional
   techniques. Therefore, age-predictive epigenetic clocks were developed for a model
-  deepwater reef ﬁsh, blackbelly roseﬁsh Helicolenus dactylopterus, using two tissue
+  deepwater reef ﬁsh, blackbelly roseﬁsh (*Helicolenus dactylopterus*), using two tissue
   types (ﬁn clips and muscle; n = 61 individuals; 9−60 years) and 14C-validated
   consensus age estimates. The inﬂuence of biological information (length and sex)
   on epigenetic clock accuracy, and the potential for developing a multi-tissue clock,
@@ -28,7 +28,7 @@ abstract: "Age estimates are essential for ﬁsheries assessment and management,
   1 year). Age-associated CpG sites were identiﬁed across tissues, but a multi-tissue
   clock performed poorly relative to single-tissue clocks. Overall, results demonstrate
   that accurate and precise epigenetic clocks can be developed for deepwater ﬁshes,
-  and the inclusion of biological information may enhance clock accuracy and precision."
+  and the inclusion of biological information may enhance clock accuracy and precision.
 links:
 - name: URL
   url: https://cdnsciencepub.com/doi/10.1139/cjfas-2023-0296
