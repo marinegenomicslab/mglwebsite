@@ -1,5 +1,5 @@
 ---
-title: Identification of young-of-the-year great hammerhead shark textitSphyrna mokarran
+title: Identification of young-of-the-year great hammerhead shark (*Sphyrna mokarran*)
   in northern Florida and South Carolina
 authors:
 - A. M. Barker
