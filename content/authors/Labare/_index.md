@@ -10,7 +10,7 @@ last_name: Labare
 superuser: false
 
 # Role/position
-role: Ph.D Student
+role: Ph.D Candidate
 
 # Organizations/Affiliations
 organizations:
